@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @monimiller
 - 👀 I’m interested in learning, data, fun facts, trivia, puzzles
-- 🌱 I’m currently learning Trino! (and Starburst Galaxy) & dbt 
 - 💞️ I’m looking to collaborate on all things data (especially anyone who has come up with cool ways to integrate different platforms)
 - 📫 How to reach me: link.monimiller.com
 
